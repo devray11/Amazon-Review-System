@@ -30,4 +30,4 @@ The project includes a data exploration and modeling pipeline, a backend API bui
 
 The model was trained on the "Amazon Alexa Reviews" dataset (`amazon_alexa.tsv`), which contains 3150 customer reviews for Amazon Alexa products, along with their ratings and feedback (1 for positive, 0 for negative).
 
-![Amazon Review System Output](https://github.com/devray11/Amazon-Review-System/blob/cd190460c1bedb46aeb36a2c29e537c5d2e9c0c0/Output-Image.png)
+![Amazon Review System Output](https://github.com/devray11/Amazon-Review-System/blob/d7d222423b6effdf06c8bb8ad4850c22a5d7cbe8/Output-Image.png)
